@@ -1,0 +1,32 @@
+header {
+    width: auto;
+    height: 130px;
+    background-color: rgb(26, 99, 189);
+    background-image: url(./img/pattern.png
+);
+    background-size: 30%;
+
+}
+
+#logo {
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 2%;
+
+}
+
+h4 {
+    color: grey;
+    line-height: 0%;
+}
+
+.Author {
+    color: rgb(13, 199, 199);
+}
+
+.info-pic {
+    color: black;
+    line-height: 0%;
+    font-size: small;
+
+}
