@@ -21,7 +21,7 @@ h4 {
     line-height: 0%;
 }
 
-.Author {
+#Author {
     color: rgb(13, 199, 199);
 }
 
@@ -29,6 +29,7 @@ h4 {
     color: black;
     line-height: 0%;
     font-size: small;
+    font font-weight: bold;
 
 }
 
